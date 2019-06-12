@@ -125,7 +125,7 @@ Inventory:
     InformationButton:
       material: PAPER
       slot: 13
-      name: '&7[ &bInfo &7]'
+      name: '&7[ &bInformation &7]'
       lore:
         - '&8&m+--------------------+'
         - '&r'
